@@ -16,7 +16,7 @@ function isLongList(arr){
 }
 
 function firstItemNumber(arr){
-  if(arr.length <= 10){
+  if(arr.length == 10){
     return 'true'
   }  
 }
